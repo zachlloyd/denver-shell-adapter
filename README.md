@@ -1,0 +1,1 @@
+# denver-shell-adapter
