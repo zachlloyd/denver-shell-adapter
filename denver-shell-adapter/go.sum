@@ -1,0 +1,6 @@
+github.com/k0kubun/go-termios v0.0.0-20171028200455-866db995f8c4 h1:4TiPxlG1plPzhl0x0RZfZYFt2/RQ7/EtNRvttcHldXU=
+github.com/k0kubun/go-termios v0.0.0-20171028200455-866db995f8c4/go.mod h1:s2S5lFGTFNlu+4Gp49RM0IYNRjoDQM6jYu09cTDgaGU=
+github.com/pkg/term v0.0.0-20200520122047-c3ffed290a03 h1:pd4YKIqCB0U7O2I4gWHgEUA2mCEOENmco0l/bM957bU=
+github.com/pkg/term v0.0.0-20200520122047-c3ffed290a03/go.mod h1:Z9+Ul5bCbBKnbCvdOWbLqTHhJiYV414CURZJba6L8qA=
+golang.org/x/sys v0.0.0-20200622214017-ed371f2e16b4 h1:5/PjkGUjvEU5Gl6BxmvKRPpqo2uNMv4rcHBMwzk/st8=
+golang.org/x/sys v0.0.0-20200622214017-ed371f2e16b4/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
